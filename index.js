@@ -45,4 +45,3 @@ mageHero.atack();       // Output: O Mago Gandalf atacou usando magia
 warriorHero.atack();    // Output: O Guerreiro Aragorn atacou usando espada
 monkHero.atack();       // Output: O Monge Bruce Lee atacou usando artes marciais
 ninjaHero.atack();      // Output: O Ninja Hanzo atacou usando shuriken
-      
